@@ -1,6 +1,6 @@
 # DATA ANALYTICS ASSESSMENT
 
-This repository contains my solutions to the SQL Proficiency Assessment. Each file answers a specific question related to customer behavior, transaction patterns, and account activity.
+This repository contains my solutions to the SQL Proficiency Assessment using **MySQL**. Each file answers a specific question related to customer behavior, transaction patterns, and account activity.
 
 
 ## QUESTION EXPLANATIONS
